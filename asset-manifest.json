@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MKeeper/static/css/main.780195ca.css",
+    "main.js": "/MKeeper/static/js/main.6ad05b4d.js",
+    "index.html": "/MKeeper/index.html",
+    "main.780195ca.css.map": "/MKeeper/static/css/main.780195ca.css.map",
+    "main.6ad05b4d.js.map": "/MKeeper/static/js/main.6ad05b4d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.780195ca.css",
+    "static/js/main.6ad05b4d.js"
+  ]
+}
